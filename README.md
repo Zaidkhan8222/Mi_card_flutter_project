@@ -9,7 +9,7 @@ This project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
 
 - [Mi_card_flutter_project](https://github.com/Zaidkhan8222/Mi_card_flutter_project.git)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
